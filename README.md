@@ -16,9 +16,6 @@ Acesse o projeto online:
 
 ## 📁 Como usar
 
-### 📁 Pré-requisitos
-
-- Node.js instalado: [https://nodejs.org](https://nodejs.org)
 
 Clone o repositório:
 
@@ -26,17 +23,7 @@ Clone o repositório:
 git clone https://github.com/MatheusIYoshida/Spotify-clone-menu.git
 ```
 
-Abra o terminal e instale o JSON Server globalmente (caso ainda não tenha):
-```bash
-npm install -g json-server@0.17
-```
-
-Com o terminal aberto na raiz do projeto, execute o seguinte comando:
-```bash
-json-server --watch api-artists/artists.json --port 3000
-```
-
-Após instalar e iniciar o JSON Server, abra o arquivo `index.html` no seu navegador:
+Abra o arquivo `index.html` no seu navegador:
 ```bash
 cd Spotify-clone-menu
 open index.html
