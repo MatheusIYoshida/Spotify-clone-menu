@@ -1,29 +1,33 @@
 # 🎵 Spotify Clone Menu
 
-Clone funcional da página inicial do Spotify com foco em interface e experiência do usuário. O projeto simula a navegação, busca e exibição de artistas usando **HTML**, **CSS** e **JavaScript**. 
+A functional Spotify interface clone that reacreates the navigation, search and music discovery experience with smooth interactions
 
-## 🚀 Demonstração
+## 🚀 Live Demo
 
-Acesse o projeto online:  
-🔗 [https://matheusiyoshida.github.io/Spotify-clone-menu/](https://matheusiyoshida.github.io/Spotify-clone-menu/)
+Check out the project in action:  
+🔗 [Live Demo](https://matheusiyoshida.github.io/Spotify-clone-menu/)
 
-## 🛠 Tecnologias utilizadas
+<img width="1846" height="922" alt="image" src="https://github.com/user-attachments/assets/4672d5d9-d17a-4135-b2c2-9c3155415214" />
+
+## 🛠 Built With
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 📁 Como usar
+## 📁 Installation
 
-
-Clone o repositório:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/MatheusIYoshida/Spotify-clone-menu.git
 ```
 
-Abra o arquivo `index.html` no seu navegador:
+2. Navigate to the project directory:
+
 ```bash
 cd Spotify-clone-menu
-open index.html
 ```
+
+3. Open the projec:
+- Open the `index.html` file directly in your browser
